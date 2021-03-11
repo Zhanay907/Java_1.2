@@ -16,8 +16,7 @@
 
 В процессе тестирования использовались следующие артефакты*:
 
-* Тест кейс: https://drive.google.com/file/d/1w_3Bls7clUHFrrAY7oPU3S-K3_kCreuj/view?usp=sharing
-
+* Тест кейс: https://github.com/Zhanay907/Java_1.2/blob/master/Test-keys.md
 
 
 В качестве тестовых данных использовались данные:
