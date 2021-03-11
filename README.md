@@ -2,19 +2,16 @@
 
 ## Приложение "Credit Card Number Validator" представлен в виде кода на платформе Java 8+ , предназначен запуска программы с разными тестовыми данными для проверки валидности номеров кредитных карт.
 
-"06.03.2021" - "06.03.2021" было проведено динамическое тестирование приложения <Credit Card Number Validator>.
+06.03.2021 - 06.03.2021 было проведено динамическое тестирование приложения "Credit Card Number Validator".
 
-На тестирование затрачено: "8 часов"
+На тестирование затрачено: 8 часов
 
 В результате тестирования выявлены следующие дефекты:
 
-* Запуск приложения "Credit Card Number Validator" данными
-* Diners Club - Carte Blanche: 30106313883067 вызывает ошибку “Result is FAIL”.
-* https://docs.google.com/document/d/1mFJh2o-X3qp_g_DS0gYaC3tAkWov9QooNtqjXbaE-ng/edit?usp=sharing
+* Issues: "Запуск приложения данными Diners Club - Carte Blanche: 30106313883067 вызывает ошибку Result is FAIL"
 
 
-В процессе тестирования осуществлялись "Запуск приложения "Credit Card Number Validator" параметрами 
-из вебсайта по ссылке: https://www.freeformatter.com/credit-card-number-generator-validator.html.  
+## В процессе тестирования осуществлялись "Запуск приложения "Credit Card Number Validator" параметрами из вебсайта по ссылке: https://www.freeformatter.com/credit-card-number-generator-validator.html.  
 
 
 В процессе тестирования использовались следующие артефакты*:
@@ -24,7 +21,7 @@
 
 
 В качестве тестовых данных использовались данные:
-* 1.Bебсайт по ссылке: https://www.freeformatter.com/credit-card-number-generator-validator.html.
+* 1.Bебсайт по ссылке: https://github.com/Zhanay907/Java_1.2/blob/master/Test-keys.md
  
 ## "Ожидаемый результат: Result is OK"
 
