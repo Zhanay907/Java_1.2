@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* Issues: "Запуск приложения данными Diners Club - Carte Blanche: 30106313883067 вызывает ошибку Result is FAIL"
+* https://github.com/Zhanay907/Java_1.2/issues/2
 
 
 ## В процессе тестирования осуществлялись "Запуск приложения "Credit Card Number Validator" параметрами из вебсайта по ссылке: https://www.freeformatter.com/credit-card-number-generator-validator.html.  
