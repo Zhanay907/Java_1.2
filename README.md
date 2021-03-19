@@ -21,7 +21,7 @@
 
 
 В качестве тестовых данных использовались данные:
-* 1.Bебсайт по ссылке: https://github.com/Zhanay907/Java_1.2/blob/master/Test-keys.md
+* 1.Bебсайт по ссылке: https://www.freeformatter.com/credit-card-number-generator-validator.html
  
 ## "Ожидаемый результат: Result is OK"
 
