@@ -23,7 +23,6 @@
 В качестве тестовых данных использовались данные:
 * 1.Bебсайт по ссылке: https://www.freeformatter.com/credit-card-number-generator-validator.html
  
-## "Ожидаемый результат: Result is OK"
 
 
 Тестирование производилось в следующем окружении:
